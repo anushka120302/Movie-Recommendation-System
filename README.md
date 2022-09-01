@@ -3,3 +3,4 @@ This project is made with the help of machine learning. Here I have used the con
 In this project I made each movie a vector and tried to find the similarity between them and the less the distance between two vectors in a large dimensional space was, the more was it similar.
 This is a completely working app on a dataset of around 5000 movies, it uses streamlit and is deployed to heroku cloud platform.
 
+https://movie-recommending-by-anushka.herokuapp.com/
