@@ -9,8 +9,9 @@ This is a completely working app on a dataset of around 5000 movies, it uses str
   
   
   
-  Dataset: <a href="https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv">
-           <a href="https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv">
+  Dataset: 
+  <a href="https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv">Credits data</a>
+  <a href="https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv">Movies data</a>
   
   
 
