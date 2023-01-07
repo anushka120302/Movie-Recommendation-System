@@ -8,4 +8,9 @@ This is a completely working app on a dataset of around 5000 movies, it uses str
   <a href="https://movie-recommender-by-anushka.herokuapp.com/">Visit to this Movie Recommendation System (Heroku deployed)</a>
   
   
+  
+  Dataset: <a href="https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv">
+           <a href="https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv">
+  
+  
 
